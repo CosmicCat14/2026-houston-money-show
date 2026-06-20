@@ -1,0 +1,165 @@
+{
+    "names":[
+        "trixie",
+        "jaden",
+        "ava",
+        "lindi",
+        "hana2",
+        "kiki",
+        "bkiki",
+        "skiki",
+        "fkiki",
+        "whimsy", 
+        "lainey",
+        "...",
+        "salem",
+        "gizmo",
+        "midnight",
+        "sweet", 
+        "sq"
+    ],
+    "...":{
+        "name":"..."
+    },
+    "trixie":{
+        "nickname":"The Oldest Cat",
+        "age": 11, 
+        "weight":"0.252 pounds",
+        "role":"Elder",
+        "age_number":1,
+        "name":"Trixie"
+    },
+    "jaden":{
+        "nickname":"The Leading Cat",
+        "age": 10, 
+        "weight":"0.255 pounds",
+        "role":"Elder, Leader",
+        "age_number":2,
+        "name":"Jaden"
+    },
+    "ava":{
+        "nickname":"a cat",
+        "age": 8, 
+        "weight":"0.272 pounds",
+        "role":"Elder",
+        "age_number":3,
+        "name":"Ava"
+    },
+    "lindi":{
+        "nickname":"the Kind cat",
+        "age": 8, 
+        "weight":"0.225 pounds",
+        "role":"Elder",
+        "age_number":4,
+        "name":"Lindi"
+    },
+    "hana2":{
+        "nickname":"a cat",
+        "age": 8, 
+        "weight":"0.301 pounds",
+        "role":"Elder",
+        "age_number":5,
+        "name":"Hana 2"
+    },
+    "kiki":{
+        "nickname":"a cat",
+        "age": 8, 
+        "weight":"0.252 pounds",
+        "role":"Elder",
+        "age_number":6,
+        "name":"Kiki"
+    },
+    "bkiki":{
+        "nickname":"a bigger cat",
+        "age": 8, 
+        "weight":"0.424 pounds",
+        "role":"Big Cat, influencer",
+        "age_number":7,
+        "name":"Big Kiki"
+    },
+    "skiki":{
+        "nickname":"The Big Cat",
+        "age": 1, 
+        "weight":"1.6 pounds",
+        "role":"Big Cat, influencer",
+        "age_number":8,
+        "name":"Super Kiki"
+    },
+    "fkiki":{
+        "nickname":"Fat Cat 1 of 2",
+        "age": 2, 
+        "weight":"0.5 pounds",
+        "role":"Bigger Cat, influencer",
+        "age_number":9,
+        "name":"Fat Kiki"
+    },
+    "whimsy":{
+        "nickname":"The Shiny Cat",
+        "age":8,
+        "weight":"0.255 pounds",
+        "role":"Shiny Cat",
+        "age_number":10,
+        "name":"Whimsy"
+    },
+    "lainey":{
+        "nickname":"a generic cat",
+        "age":8, 
+        "weight":"0.255 pounds",
+        "role":"generic",
+        "age_number":11,
+        "name":"Lainey"
+    },
+    "flainey":{
+        "nickname":null,
+        "age":null,
+        "weight":null,
+        "role":"generic",
+        "age_number":12,
+        "name":"Fat Lainey"
+    },
+    "confetti":{
+
+    },
+    "salem":{
+        "nickname":"I just arrived, so I don't have a nickname yet...",
+        "age":"1 month",
+        "weight":"0.150 pounds",
+        "role": "I don't have a job yet, but I might be used as a bowling ball...",
+        "age_number":67,
+        "name":"Salem"
+    },
+    "gizmo":{
+        "nickname":"I just arrived, so I don't have a nickname yet...",
+        "age":"1 month",
+        "weight":"0.148 pounds",
+        "role": "I don't have a job yet, but I might be used as a bowling ball...",
+        "age_number":68,
+        "name":"Gizmo"  
+    },
+    "midnight": {
+        "nickname":"I just arrived, so I don't have a nickname yet...",
+        "age":"1 month",
+        "weight":"0.084 pounds",
+        "role": "Halloween Cat",
+        "age_number":69,
+        "name":"Midnight"
+    },
+    "sweet":{
+        "nickname":"The Valentines Cat",
+        "age":"~10 days",
+        "weight":"0.210 pounds",
+        "role": "I don't have a job yet...",
+        "age_number":70,
+        "name":"Sweet"
+    },
+    "sq":{
+        "nickname":"I just arrived, so I don't have a nickname yet...",
+        "age":"~10 days",
+        "weight":"0.348 pounds",
+        "role": "I don't have a job yet...",
+        "age_number":71,
+        "name":"Susan Q."
+    }
+    
+
+}
