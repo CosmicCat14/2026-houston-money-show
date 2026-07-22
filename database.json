@@ -16,7 +16,8 @@
         "gizmo",
         "midnight",
         "sweet", 
-        "sq"
+        "sq",
+        "giselle"
     ],
     "...":{
         "name":"..."
@@ -110,9 +111,9 @@
         "name":"Lainey"
     },
     "flainey":{
-        "nickname":null,
-        "age":null,
-        "weight":null,
+        "nickname":"a generic cat",
+        "age":"Unknown",
+        "weight":"Unweighed",
         "role":"generic",
         "age_number":12,
         "name":"Fat Lainey"
@@ -146,7 +147,7 @@
     },
     "sweet":{
         "nickname":"The Valentines Cat",
-        "age":"~10 days",
+        "age":"6 months",
         "weight":"0.210 pounds",
         "role": "I don't have a job yet...",
         "age_number":70,
@@ -154,12 +155,18 @@
     },
     "sq":{
         "nickname":"I just arrived, so I don't have a nickname yet...",
-        "age":"~10 days",
+        "age":"6 months",
         "weight":"0.348 pounds",
         "role": "I don't have a job yet...",
         "age_number":71,
         "name":"Susan Q."
+    },
+    "giselle":{
+        "nickname":"I just arrived, so I don't have a nickname yet...",
+        "age":"1 day",
+        "weight":"0.182 pounds",
+        "age_number":72,
+        "name":"Giselle"
     }
-    
 
 }
