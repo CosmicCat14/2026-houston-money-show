@@ -11,6 +11,7 @@
         "fkiki",
         "whimsy", 
         "lainey",
+        "confetti",
         "...",
         "salem",
         "gizmo",
@@ -119,7 +120,12 @@
         "name":"Fat Lainey"
     },
     "confetti":{
-
+        "nickname":"a generic cat",
+        "age":8,
+        "weight":"Unweighed",
+        "role":"generic",
+        "age_number":13,
+        "name":"Confetti"
     },
     "salem":{
         "nickname":"I just arrived, so I don't have a nickname yet...",
