@@ -11,6 +11,8 @@
         "fkiki",
         "whimsy", 
         "lainey",
+        "flainey",
+        "potion",
         "confetti",
         "livvie",
         "livviek",
@@ -19,12 +21,15 @@
         "bfiona",
         "cassidy",
         "cassidyk",
+        "catula",
+        "luna",
         "salem",
         "gizmo",
         "midnight",
         "sweet", 
         "sq",
-        "giselle"
+        "giselle",
+        "hana"
     ],
     "...":{
         "name":"Error Code 1",
@@ -131,12 +136,20 @@
         "age_number":12,
         "name":"Fat Lainey"
     },
+    "potion":{
+        "nickname":"The Accidentally Ommited Cat with an unlucky age number",
+        "name":"Potion",
+        "weight":"Unweighed",
+        "role":"Halloween Cat",
+        "age_number":13,
+        "age":"Unknown"
+    },
     "confetti":{
         "nickname":"a generic cat",
         "age":8,
         "weight":"Unweighed",
         "role":"generic",
-        "age_number":13,
+        "age_number":14,
         "name":"Confetti"
     },
     "livvie":{
@@ -145,7 +158,7 @@
         "weight":"Unweighed",
         "role":"generic",
         "name":"Livvie",
-        "age_number":14
+        "age_number":15
     },
     "livviek":{
         "nickname":"Small Generic 1 of 3",
@@ -153,13 +166,13 @@
         "weight":"Unweighed",
         "role":"generic , small cat",
         "age":"Unknown",
-        "age_number":15
+        "age_number":16
     },
     "fiona":{
         "nickname": "A generic cat",
         "name": "Fiona",
         "age":8,
-        "age_number":16,
+        "age_number":17,
         "role": "generic",
         "weight":"Unweighed"
     },
@@ -168,7 +181,7 @@
         "name":"Big Fiona",
         "age":"Unknown",
         "role":"generic, big cat",
-        "age_number":17,
+        "age_number":18,
         "weight":"Unweighed"
     },
     "fionak": {
@@ -176,7 +189,7 @@
         "name":"Fiona Key",
         "age":"Unknown",
         "role":"generic , small cat",
-        "age_number":18,
+        "age_number":19,
         "weight":"Unweighed"
     },
     "cassidy":{
@@ -184,7 +197,7 @@
         "name":"Cassidy",
         "age":8,
         "role":"generic",
-        "age_number":19,
+        "age_number":20,
         "weight":"Unweighed"
     },
     "cassidyk":{
@@ -192,7 +205,7 @@
         "name":"Cassidy Key",
         "age":"Unknown",
         "role":"generic , small cat",
-        "age_number":20,
+        "age_number":21,
         "weight":"Unweighed"
     },
     "catula":{
@@ -200,8 +213,16 @@
         "name":"Catula",
         "age":8,
         "role":"Halloween Cat, Undead Cat",
-        "age_number":21,
+        "age_number":22,
         "weight":"Unweighed"
+    },
+    "luna":{
+        "nickname":"The Halloween Cat",
+        "name":"Luna",
+        "age":"Unknown",
+        "age_number": 54,
+        "weight":"Unweighed",
+        "role":"Halloween Cat, Undead Cat"
     },
     "salem":{
         "nickname":"I just arrived, so I don't have a nickname yet...",
@@ -250,6 +271,13 @@
         "age_number":72,
         "name":"Giselle",
         "role": "I just arrived, so I don't have a job yet."
+    },
+    "hana":{
+        "nickname":"The Live Cat",
+        "name":"Hana",
+        "age":8,
+        "age_number":"Live",
+        "role":"Live Cat, predator"
     }
 
 }
