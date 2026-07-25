@@ -14,6 +14,11 @@
         "confetti",
         "livvie",
         "livviek",
+        "fiona",
+        "fionak",
+        "bfiona",
+        "cassidy",
+        "cassidyk",
         "salem",
         "gizmo",
         "midnight",
@@ -143,7 +148,7 @@
         "age_number":14
     },
     "livviek":{
-        "nickname":"Small Generic 1 of 2",
+        "nickname":"Small Generic 1 of 3",
         "name":"Livvie Key",
         "weight":"Unweighed",
         "role":"generic , small cat",
@@ -166,12 +171,36 @@
         "age_number":17,
         "weight":"Unweighed"
     },
+    "fionak": {
+        "nickname":"Small Generic 1 of 3",
+        "name":"Fiona Key",
+        "age":"Unknown",
+        "role":"generic , small cat",
+        "age_number":18,
+        "weight":"Unweighed"
+    },
     "cassidy":{
         "nickname":"A generic cat",
         "name":"Cassidy",
         "age":8,
         "role":"generic",
-        "age_number":18,
+        "age_number":19,
+        "weight":"Unweighed"
+    },
+    "cassidyk":{
+        "nickname":"Small Generic 3 of 3",
+        "name":"Cassidy Key",
+        "age":"Unknown",
+        "role":"generic , small cat",
+        "age_number":20,
+        "weight":"Unweighed"
+    },
+    "catula":{
+        "nickname":"The Undead Cat",
+        "name":"Catula",
+        "age":8,
+        "role":"Halloween Cat, Undead Cat",
+        "age_number":21,
         "weight":"Unweighed"
     },
     "salem":{
