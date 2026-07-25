@@ -14,7 +14,6 @@
         "confetti",
         "livvie",
         "livviek",
-        "...",
         "salem",
         "gizmo",
         "midnight",
@@ -141,13 +140,39 @@
         "weight":"Unweighed",
         "role":"generic",
         "name":"Livvie",
-        "age_number":"14"
+        "age_number":14
     },
     "livviek":{
         "nickname":"Small Generic 1 of 2",
         "name":"Livvie Key",
         "weight":"Unweighed",
-        "role":"generic , small cat"
+        "role":"generic , small cat",
+        "age":"Unknown",
+        "age_number":15
+    },
+    "fiona":{
+        "nickname": "A generic cat",
+        "name": "Fiona",
+        "age":8,
+        "age_number":16,
+        "role": "generic",
+        "weight":"Unweighed"
+    },
+    "bfiona":{
+        "nickname":"a bigger generic",
+        "name":"Big Fiona",
+        "age":"Unknown",
+        "role":"generic, big cat",
+        "age_number":17,
+        "weight":"Unweighed"
+    },
+    "cassidy":{
+        "nickname":"A generic cat",
+        "name":"Cassidy",
+        "age":8,
+        "role":"generic",
+        "age_number":18,
+        "weight":"Unweighed"
     },
     "salem":{
         "nickname":"I just arrived, so I don't have a nickname yet...",
@@ -194,7 +219,8 @@
         "age":"1 day",
         "weight":"0.182 pounds",
         "age_number":72,
-        "name":"Giselle"
+        "name":"Giselle",
+        "role": "I just arrived, so I don't have a job yet."
     }
 
 }
