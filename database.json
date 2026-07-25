@@ -12,6 +12,8 @@
         "whimsy", 
         "lainey",
         "confetti",
+        "livvie",
+        "livviek",
         "...",
         "salem",
         "gizmo",
@@ -21,7 +23,13 @@
         "giselle"
     ],
     "...":{
-        "name":"..."
+        "name":"Error Code 1",
+        "nickname":"Invalid Token",
+        "age":"Unknown",
+        "role":"Unknown",
+        "age_number":"Unknown",
+        "weight":"Unknown"
+
     },
     "trixie":{
         "nickname":"The Oldest Cat",
@@ -127,6 +135,20 @@
         "age_number":13,
         "name":"Confetti"
     },
+    "livvie":{
+        "nickname":"a generic cat",
+        "age":8,
+        "weight":"Unweighed",
+        "role":"generic",
+        "name":"Livvie",
+        "age_number":"14"
+    },
+    "livviek":{
+        "nickname":"Small Generic 1 of 2",
+        "name":"Livvie Key",
+        "weight":"Unweighed",
+        "role":"generic , small cat"
+    },
     "salem":{
         "nickname":"I just arrived, so I don't have a nickname yet...",
         "age":"1 month",
@@ -144,7 +166,7 @@
         "name":"Gizmo"  
     },
     "midnight": {
-        "nickname":"I just arrived, so I don't have a nickname yet...",
+        "nickname":"The Pumpkin Cat",
         "age":"1 month",
         "weight":"0.084 pounds",
         "role": "Halloween Cat",
