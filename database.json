@@ -22,6 +22,11 @@
         "cassidy",
         "cassidyk",
         "catula",
+        "oleander",
+        "tiggy",
+        "mango",
+        "meowwalker",
+        "autumn",
         "luna",
         "salem",
         "gizmo",
@@ -215,6 +220,45 @@
         "role":"Halloween Cat, Undead Cat",
         "age_number":22,
         "weight":"Unweighed"
+    },
+    "oleander":{
+        "nickname":"The First Black Cat",
+        "name":"Oleander",
+        "age":8,
+        "role":"Halloween Cat",
+        "age_number":22,
+        "weight":"Unweighed"
+    },
+    "tiggy":{
+        "nickname":"The Wild Cat",
+        "name":"Tiggy",
+        "age":"Unknown",
+        "age_number":24,
+        "weight":"Unweighed",
+        "role":"Wild Cat"
+    },
+    "mango":{
+        "nickname":"The Stinky Cat",
+        "name":"Mango",
+        "age":"Unknown",
+        "role":"Inventor, Stinky Cat",
+        "age_number":27,
+        "weight":"Unweighed"
+    },
+    "meowwalker":{
+        "age_number":47,
+        "name":"MeowWalker",
+        "nickname":"The Electronic Cat",
+        "weight":"Unweighed",
+        "role":"Electronic Cat (Great for filming!)"
+    },
+    "autumn":{
+        "nickname":"I don't know this cat",
+        "name":"Autumn",
+        "role":"I don't know this cat",
+        "age":2,
+        "weight":"Unweighed",
+        "age_number": 52
     },
     "luna":{
         "nickname":"The Halloween Cat",
