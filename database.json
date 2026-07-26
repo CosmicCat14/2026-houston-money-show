@@ -25,6 +25,7 @@
         "oleander",
         "tiggy",
         "mango",
+        "mitzi",
         "meowwalker",
         "autumn",
         "luna",
@@ -33,6 +34,7 @@
         "midnight",
         "sweet", 
         "sq",
+        "melanie",
         "giselle",
         "hana"
     ],
@@ -245,6 +247,14 @@
         "age_number":27,
         "weight":"Unweighed"
     },
+    "mitzi":{
+        "nickname":"Mango's Brother",
+        "name":"Mitzi",
+        "age":"Unknown",
+        "role":"I don't do much for CatsInHotels",
+        "age_number":28,
+        "weight":"Unweighed"
+    },
     "meowwalker":{
         "age_number":47,
         "name":"MeowWalker",
@@ -308,11 +318,19 @@
         "age_number":71,
         "name":"Susan Q."
     },
+    "melanie":{
+        "nickname":"A Kitten",
+        "age":"Up to 1 year",
+        "weight":"Unweighed",
+        "age_number":72,
+        "name":"Melanie",
+        "role":"I don't have a job yet..."
+    },
     "giselle":{
         "nickname":"I just arrived, so I don't have a nickname yet...",
         "age":"1 day",
         "weight":"0.182 pounds",
-        "age_number":72,
+        "age_number":73,
         "name":"Giselle",
         "role": "I just arrived, so I don't have a job yet."
     },
