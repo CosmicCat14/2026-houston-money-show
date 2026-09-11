@@ -23,8 +23,13 @@
         "cassidyk",
         "catula",
         "oleander",
+        "miso",
         "tiggy",
+        "tabor",
+        "tundra",
         "mango",
+        "mangok",
+        "bmango",
         "mitzi",
         "meowwalker",
         "autumn",
@@ -40,7 +45,7 @@
     ],
     "...":{
         "name":"Error Code 1",
-        "nickname":"Invalid Token",
+        "nickname":"Cat is not documented",
         "age":"Unknown",
         "role":"Unknown",
         "age_number":"Unknown",
@@ -115,7 +120,7 @@
         "nickname":"Fat Cat 1 of 2",
         "age": 2, 
         "weight":"0.5 pounds",
-        "role":"Bigger Cat, influencer",
+        "role":"Bigger Cat, influencer, Fat Cat",
         "age_number":9,
         "name":"Fat Kiki"
     },
@@ -139,7 +144,7 @@
         "nickname":"a generic cat",
         "age":"Unknown",
         "weight":"Unweighed",
-        "role":"generic",
+        "role":"generic, Fat Cat",
         "age_number":12,
         "name":"Fat Lainey"
     },
@@ -171,7 +176,7 @@
         "nickname":"Small Generic 1 of 3",
         "name":"Livvie Key",
         "weight":"Unweighed",
-        "role":"generic , small cat",
+        "role":"generic , key",
         "age":"Unknown",
         "age_number":16
     },
@@ -195,7 +200,7 @@
         "nickname":"Small Generic 1 of 3",
         "name":"Fiona Key",
         "age":"Unknown",
-        "role":"generic , small cat",
+        "role":"generic , key",
         "age_number":19,
         "weight":"Unweighed"
     },
@@ -211,7 +216,7 @@
         "nickname":"Small Generic 3 of 3",
         "name":"Cassidy Key",
         "age":"Unknown",
-        "role":"generic , small cat",
+        "role":"generic , key",
         "age_number":21,
         "weight":"Unweighed"
     },
@@ -231,6 +236,14 @@
         "age_number":22,
         "weight":"Unweighed"
     },
+    "miso":{
+      "nickname":"The Spicy Cat",
+      "name":"Miso",
+      "age":8,
+      "role":"I don't do much for CatsInHotels",
+      "age_number":23,
+      "weight":"Unweighed"  
+    },
     "tiggy":{
         "nickname":"The Wild Cat",
         "name":"Tiggy",
@@ -238,6 +251,20 @@
         "age_number":24,
         "weight":"Unweighed",
         "role":"Wild Cat"
+    },
+    "tabor":{
+        "nickname":"A Wild Cat",
+        "name":"Tabor",
+        "age":"Unknown",
+        "age_number":25,
+        "weight":"Unweighed"
+    },
+    "tundra":{
+        "nickname":"A Wild Cat",
+        "name":"Tundra",
+        "age":"Unknown",
+        "age_number":26,
+        "weight":"Unweighed"
     },
     "mango":{
         "nickname":"The Stinky Cat",
@@ -247,12 +274,26 @@
         "age_number":27,
         "weight":"Unweighed"
     },
+    "mangok":{
+        "nickname":"The Stinky Cat",
+        "name":"Mango Key",
+        "age":"Unknown",
+        "role":"Inventor, Stinky Cat, Key",
+        "age_number":28,
+        "weight":"Unweighed"
+    },
+    "bmango":{
+        "nickname":"The Stinky Cat",
+        "name":"Big Mango",
+        "age":"Unknown",
+        "role":"Inventor, Stinky Cat, big cat"
+    },
     "mitzi":{
         "nickname":"Mango's Brother",
         "name":"Mitzi",
         "age":"Unknown",
         "role":"I don't do much for CatsInHotels",
-        "age_number":28,
+        "age_number":30,
         "weight":"Unweighed"
     },
     "meowwalker":{
